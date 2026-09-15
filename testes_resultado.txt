@@ -1,0 +1,19 @@
+test_01_chave_fernet (test_crypto_tool.TestCryptoTool.test_01_chave_fernet) ... ok
+test_02_par_rsa (test_crypto_tool.TestCryptoTool.test_02_par_rsa) ... ok
+test_03_sim_texto (test_crypto_tool.TestCryptoTool.test_03_sim_texto) ... ok
+test_04_sim_binario (test_crypto_tool.TestCryptoTool.test_04_sim_binario) ... ok
+test_05_sim_vazio (test_crypto_tool.TestCryptoTool.test_05_sim_vazio) ... ok
+test_06_sim_chave_errada (test_crypto_tool.TestCryptoTool.test_06_sim_chave_errada) ... ok
+test_07_sim_adulterado (test_crypto_tool.TestCryptoTool.test_07_sim_adulterado) ... ok
+test_08_rsa_texto (test_crypto_tool.TestCryptoTool.test_08_rsa_texto) ... ok
+test_09_rsa_limite (test_crypto_tool.TestCryptoTool.test_09_rsa_limite) ... ok
+test_10_rsa_excesso (test_crypto_tool.TestCryptoTool.test_10_rsa_excesso) ... ok
+test_11_rsa_chave_errada (test_crypto_tool.TestCryptoTool.test_11_rsa_chave_errada) ... ok
+test_12_hash_vetor (test_crypto_tool.TestCryptoTool.test_12_hash_vetor) ... ok
+test_13_hash_alteracao (test_crypto_tool.TestCryptoTool.test_13_hash_alteracao) ... ok
+test_14_arquivo_ausente (test_crypto_tool.TestCryptoTool.test_14_arquivo_ausente) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.791s
+
+OK
